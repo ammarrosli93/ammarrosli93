@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/muhammad-ammarosli93/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Integrity-driven and bold cybersecurity analyst with a solid data analysis foundation and growing programming proficiency. I am deeply committed to ethical practices and confident in making informed decisions, particularly when addressing complex cybersecurity challenges. Cybersecurity is vital in helping organizations mitigate risks and prevent potentially catastrophic events. 
+Integrity-driven engineering graduate with a strong data analysis foundation and growing programming skills. I began my IT journey by completing the Google Data Analytics course and learning basic web development with HTML and CSS, which led me to discover my passion for cybersecurity. Currently expanding my knowledge in this field, I’m committed to ethical practices and informed decision-making to help organizations mitigate risks and prevent cyber threats.
 
 
 ## Objective
