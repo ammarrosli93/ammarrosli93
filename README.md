@@ -1,128 +1,105 @@
-# 👋 Hi there, I’m Ammar Rosli!  
+# 👋 Hi, I’m Muhammad Ammar Rosli
 
 <a href="https://www.linkedin.com/in/muhammad-ammarosli93/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ammarrosli93@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/ammarrosli93">
-  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
 
-💡 **Integrity-driven engineering graduate** with strong **data analysis**, **programming**, and a growing passion for **cybersecurity & full stack development**.  
+## 🧭 About Me
 
-I began my IT journey with the **Google Data Analytics** course, then moved into **web development** (HTML, CSS, React, Node.js). Currently, I’m building projects that combine **security awareness with full stack applications**, helping me grow as both a developer and a problem-solver.  
+I am a **career-switching Junior Web Developer** with a background in **Mechanical–Automotive Engineering** and over **three years of experience in administrative and systems-based roles**. Through my previous work, I was exposed to data workflows, dashboards, and process optimisation, which sparked my transition into software development.
 
----
+I have completed **HTML, CSS, and JavaScript**, and I am currently learning **React**, focusing on building practical, real-world applications. My long-term goal is to grow into a **Full Stack Developer** and eventually progress into **DevOps / cloud-oriented engineering**.
 
-## 🎯 Objective  
-
-With strong problem-solving skills and a proactive mindset, I aim to work as a **Full Stack Developer** where I can:  
-- 🚀 Build scalable web apps (React + Node.js + MongoDB/Postgres)  
-- 🔒 Apply security best practices in development  
-- 🌍 Contribute to meaningful projects that protect users & systems  
+I enjoy understanding how systems work end-to-end, translating requirements into working applications, and continuously improving through hands-on projects.
 
 ---
 
-## 📘 Future Learning  
+## 🎯 Career Objective
 
-I believe in continuous growth and upskilling. My next goals are:  
-
-- ☕ **Java** – strengthen backend programming with a solid OOP foundation  
-- 🌱 **Spring Boot** – build enterprise-level, production-ready applications  
-
----
-
-## 🛠️ Skills  
-
-| Area                     | Skillset / Projects |
-|---------------------------|---------------------|
-| 🌐 **Frontend**           | React, HTML, CSS, Tailwind, JavaScript |
-| ⚙️ **Backend**            | Node.js, Express.js, REST APIs |
-| 🗄️ **Database**           | MongoDB, PostgreSQL, MySQL |
-| 🔒 **Cybersecurity**      | SIEM, Incident Response, SOAR, Detection Labs |
-| 📜 **Scripting**          | Python, Bash, Automation scripts |
+- Secure a role as a **Junior Web / Frontend Developer** or **IT Executive (Web / Systems)**
+- Build strong foundations in frontend development
+- Progress into backend and full stack development
+- Long-term goal: **DevOps and infrastructure-focused engineering**
 
 ---
 
-## ⚡ Tools & Technologies  
+## 🛠️ Technical Skills
 
-### 🌐 Web Development  
-<div>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
+### 🌐 Frontend (Current Focus)
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React (learning & building projects)
 
-### 🔒 Cybersecurity  
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### ⚙️ Backend (Foundational)
+- Node.js (basic concepts)
+- REST API fundamentals
 
----
+### 🗄️ Data & Tools
+- Google Sheets & Excel (automation, dashboards)
+- Power BI (data visualisation)
 
-## 🎓 Certifications  
-
-<div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🧑‍💻 Engineering Foundations
+- Programming fundamentals
+- Problem-solving & systems thinking
+- Git & GitHub (version control)
 
 ---
 
-## 💼 Portfolio  
+## 📂 Projects
 
-Here are some of my highlighted works:  
+I focus on **learning by building**. These projects reflect my current progress and growth.
 
-- 🌐 **[Venue Booking System](https://github.com/ammarrosli93/venue-booking)** – A full stack app (React + Node.js + MongoDB) for managing venue reservations  
-- 📊 **[Data Dashboard](https://github.com/ammarrosli93/data-dashboard)** – Interactive analytics dashboard using React + Chart.js  
-- 🔒 **[SOC Automation Project](https://github.com/ammarrosli93/soc-automation)** – Automated incident response playbooks with Shuffle SOAR  
-- 🛡️ **[Detection Lab](https://github.com/ammarrosli93/detection-lab)** – SIEM & log analysis practice environment  
+### 🌐 Personal Portfolio Website
+- Responsive personal website built with HTML, CSS, and JavaScript  
+- Practised layout design, responsiveness, and basic interactivity
 
----
+### 📅 Class Booking App *(Ongoing)*
+- Web application to practise form handling, validation, and application logic  
+- Currently working on UI improvements and state management
 
-## 🚀 Other Projects  
+### 🌳 Family Tree App *(Ongoing)*
+- Application to model relationships and hierarchical data  
+- Focused on UI logic, conditional rendering, and data structure thinking
 
-- Detection Lab (deep dive security testing)  
-- SOC Automation Project (incident response automation)  
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarrosli93&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarrosli93&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-  
-  <br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=ammarrosli93&theme=tokyonight" alt="GitHub Streak" height="160" />
-  
-</div>
+*(More features and refinements will be added as my skills progress.)*
 
 ---
 
-## 🤝 Let’s Connect!  
+## 📘 Learning Roadmap
+
+- React (components, hooks, state management)
+- Git & GitHub workflows
+- Backend basics with Node.js
+- Databases (PostgreSQL / MongoDB)
+- Linux & Docker fundamentals
+- CI/CD and cloud basics (future DevOps path)
+
+---
+
+## 🎓 Background & Strengths
+
+- Engineering graduate with strong analytical thinking
+- Experience working with structured processes, SOPs, and data accuracy
+- Disciplined, self-driven, and comfortable learning complex systems
+- Able to bridge **operations, data, and development**
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Junior Web / Frontend Developer roles
+- IT Executive (Web / Systems) roles
+- Trainee or apprenticeship opportunities
 
 <a href="https://www.linkedin.com/in/muhammad-ammarosli93/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ammarrosli93@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/ammarrosli93">
-  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
