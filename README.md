@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Muhammad Ammar Rosli
+#  Hi, I’m Muhammad Ammar Rosli
 
 <a href="https://www.linkedin.com/in/muhammad-ammarosli93/">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I am a **career-switching Junior Web Developer** with a background in **Mechanical–Automotive Engineering** and over **three years of experience in administrative and systems-based roles**. Through my previous work, I was exposed to data workflows, dashboards, and process optimisation, which sparked my transition into software development.
 
@@ -19,7 +19,7 @@ I enjoy understanding how systems work end-to-end, translating requirements into
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 
 - Secure a role as a **Junior Web / Frontend Developer** or **IT Executive (Web / Systems)**
 - Build strong foundations in frontend development
@@ -28,29 +28,29 @@ I enjoy understanding how systems work end-to-end, translating requirements into
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
-### 🌐 Frontend (Current Focus)
+###  Frontend (Current Focus)
 - HTML5, CSS3
 - JavaScript (ES6+)
 - React (learning & building projects)
 
-### ⚙️ Backend (Foundational)
+###  Backend (Foundational)
 - Node.js (basic concepts)
 - REST API fundamentals
 
-### 🗄️ Data & Tools
+###  Data & Tools
 - Google Sheets & Excel (automation, dashboards)
 - Power BI (data visualisation)
 
-### 🧑‍💻 Engineering Foundations
+###  Engineering Foundations
 - Programming fundamentals
 - Problem-solving & systems thinking
 - Git & GitHub (version control)
 
 ---
 
-## 📂 Projects
+##  Projects
 
 I focus on **learning by building**. These projects reflect my current progress and growth.
 
@@ -70,7 +70,7 @@ I focus on **learning by building**. These projects reflect my current progress 
 
 ---
 
-## 📘 Learning Roadmap
+## Learning Roadmap
 
 - React (components, hooks, state management)
 - Git & GitHub workflows
@@ -81,7 +81,7 @@ I focus on **learning by building**. These projects reflect my current progress 
 
 ---
 
-## 🎓 Background & Strengths
+## Background & Strengths
 
 - Engineering graduate with strong analytical thinking
 - Experience working with structured processes, SOPs, and data accuracy
